@@ -1,8 +1,10 @@
-
+.titolo{
+    font-size: 60px;
+}
 .option-1{
     border-style: hidden;
     padding: 5px;
-    margin-left: 300px;
+    margin-left: 400px;
     border-radius: 5px;
     background-color: rgb(57, 141, 237);
     color: white;
@@ -13,4 +15,76 @@
     padding: 4px;
     border-radius: 5px;
     color: lightslategray;
+}
+
+h2{
+    margin-left: 400px;
+}
+
+.description{
+    margin-left: 425px;
+
+}
+
+.editorial{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(57, 141, 237);
+    color: white;
+}
+
+.editorial-2{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(57, 141, 237);
+    color: white;
+}
+
+.goals{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(182, 33, 211);
+    color: white;
+}
+
+.recruiting{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgba(30, 170, 102, 0.904);
+    color: white;
+}
+
+.mobile{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(240, 147, 66);
+    color: white;
+}
+
+.website{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(186, 85, 171);
+    color: white;
+}
+
+.sales{
+    border-style: hidden;
+    margin-left: 8px;
+    border-radius: 10px;
+    padding: 4px;
+    background-color: rgb(189, 204, 75);
+    color: white;
 }
