@@ -88,3 +88,19 @@ h2{
     background-color: rgb(189, 204, 75);
     color: white;
 }
+
+.simbolo-v{
+    color: rgb(67, 204, 145);
+    border-style: groove;
+    border-radius: 100%;
+    border-width: 1px;
+    border-color: rgb(67, 204, 145);
+}
+
+.simbolo-x{
+    color: rgba(199, 18, 18, 0.831);
+    border-style: groove;
+    border-radius: 100%;
+    border-width: 1px;
+    border-color: rgba(199, 18, 18, 0.831);
+}
