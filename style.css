@@ -1,0 +1,16 @@
+
+.option-1{
+    border-style: hidden;
+    padding: 5px;
+    margin-left: 300px;
+    border-radius: 5px;
+    background-color: rgb(57, 141, 237);
+    color: white;
+}
+
+.option-2{
+    border-style: groove;
+    padding: 4px;
+    border-radius: 5px;
+    color: lightslategray;
+}
